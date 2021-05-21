@@ -6,7 +6,8 @@ function result () {
             english : "75",
             chemistry : "89",
             biology : "69",
-            agriculture: "86"
+            agriculture: "86",
+            geography:"77"
         },
 
         ANGELA : {
@@ -15,7 +16,8 @@ function result () {
             english : "64",
             chemistry: "98",
             biology: "88",
-            agriculture: "87"
+            agriculture: "87",
+            geography:"89"
 
         },
         
@@ -25,7 +27,8 @@ function result () {
             english : "70",
             chemistry : "78",
             biology: "76",
-            agriculture: "74"
+            agriculture: "74",
+            geography:"98"
         
         }, 
     };
@@ -42,8 +45,9 @@ function result () {
          <hr> Physics score is ${definition.physics}. 
          <hr> English score is ${definition.english}. 
          <hr> Chemistry score is ${definition.chemistry}. 
-         <hr> Biology score is ${definition.biology} 
-         <hr> Agriculture score is ${definition.agriculture} <hr>`; 
+         <hr> Biology score is ${definition.biology}.
+         <hr> Agriculture score is ${definition.agriculture}.
+         <hr> Geography score is ${definition.geography}<hr>`; 
     };
 
  
